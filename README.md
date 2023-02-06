@@ -11,3 +11,10 @@ Illustration of behavioral types: Morris water maze, fear conditioning test, ope
 <br>
 
 ![behavior illustration](https://user-images.githubusercontent.com/117530949/216834007-e18c1b57-24a3-4c55-879a-77071d70e8ad.JPG)
+
+## Ultrasonic Volcalization setup, and sample data
+
+![USV_setup](https://user-images.githubusercontent.com/117530949/216854445-cc631188-840c-4dff-af62-8d24406648ad.JPG)
+
+![USV_spectrogram](https://user-images.githubusercontent.com/117530949/216854461-b50c7c30-4b6b-4079-9886-f5c7b5a96147.JPG)
+
